@@ -1,7 +1,7 @@
 <template lang="pug">
 .home
-  plug.no-phone(_name="topBar" _logo="http://www.people.com.cn/img/2016people/images/rmw_logo.png" _src="https://owo.ink/public/6b0b9997573040ed3cc6230f3891f322.page")
-  img.main-img.no-phone(src="@|bg.jpg|")
+  plug(_name="topBar" _logo="http://www.people.com.cn/img/2016people/images/rmw_logo.png" _src="https://owo.ink/public/6b0b9997573040ed3cc6230f3891f322.page")
+  img.main-img(src="@|bg.jpg|")
   .w1000
     .content-1.clear
       .left.fl
