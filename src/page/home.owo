@@ -1,0 +1,205 @@
+<template lang="pug">
+.home
+  plug.no-phone(_name="topBar" _logo="http://www.people.com.cn/img/2016people/images/rmw_logo.png" _src="https://owo.ink/public/6b0b9997573040ed3cc6230f3891f322.page")
+  img.main-img.no-phone(src="@|bg.jpg|")
+  .w1000
+    .content-1.clear
+      .left.fl
+        h2 2019全年人事月历
+        .label-box.clear
+          .item.active
+            span 一月
+            .data
+              .top
+                p 一月十八届三中全会所描绘的蓝图将如何谋划布局，万众瞩目。关于两会，网友们最想知道什么？哪些两会话题最受网友关注？
+              .bottom
+                a(href="#")
+                  img(src="http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg")
+          .item
+            span 二月
+            .data
+              .top
+                p 二月十八届三中全会所描绘的蓝图将如何谋划布局，万众瞩目。关于两会，网友们最想知道什么？哪些两会话题最受网友关注？
+              .bottom
+                a(href="#")
+                  img(src="http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg")
+          .item
+            span 三月
+            .data
+              .top
+                p 三月十八届三中全会所描绘的蓝图将如何谋划布局，万众瞩目。关于两会，网友们最想知道什么？哪些两会话题最受网友关注？
+              .bottom
+                a(href="#")
+                  img(src="http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg")
+          .item
+            span 四月
+            .data
+              .top
+                p 四月十八届三中全会所描绘的蓝图将如何谋划布局，万众瞩目。关于两会，网友们最想知道什么？哪些两会话题最受网友关注？
+              .bottom
+                a(href="#")
+                  img(src="http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg")
+          .item
+            span 五月
+            .data
+              .top
+                p 五月十八届三中全会所描绘的蓝图将如何谋划布局，万众瞩目。关于两会，网友们最想知道什么？哪些两会话题最受网友关注？
+              .bottom
+                a(href="#")
+                  img(src="http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg")
+          .item
+            span 六月
+            .data
+              .top
+                p 六月十八届三中全会所描绘的蓝图将如何谋划布局，万众瞩目。关于两会，网友们最想知道什么？哪些两会话题最受网友关注？
+              .bottom
+                a(href="#")
+                  img(src="http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg")
+          .item
+            span 七月
+            .data
+              .top
+                p 七月十八届三中全会所描绘的蓝图将如何谋划布局，万众瞩目。关于两会，网友们最想知道什么？哪些两会话题最受网友关注？
+              .bottom
+                a(href="#")
+                  img(src="http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg")
+          .item
+            span 八月
+            .data
+              .top
+                p 八月十八届三中全会所描绘的蓝图将如何谋划布局，万众瞩目。关于两会，网友们最想知道什么？哪些两会话题最受网友关注？
+              .bottom
+                a(href="#")
+                  img(src="http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg")
+          .item
+            span 九月
+            .data
+              .top
+                p 九月十八届三中全会所描绘的蓝图将如何谋划布局，万众瞩目。关于两会，网友们最想知道什么？哪些两会话题最受网友关注？
+              .bottom
+                a(href="#")
+                  img(src="http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg")
+          .item
+            span 十月
+            .data
+              .top
+                p 十月十八届三中全会所描绘的蓝图将如何谋划布局，万众瞩目。关于两会，网友们最想知道什么？哪些两会话题最受网友关注？
+              .bottom
+                a(href="#")
+                  img(src="http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg")
+          .item
+            span 十一月
+            .data
+              .top
+                p 十一月十八届三中全会所描绘的蓝图将如何谋划布局，万众瞩目。关于两会，网友们最想知道什么？哪些两会话题最受网友关注？
+              .bottom
+                a(href="#")
+                  img(src="http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg")
+          .item
+            span 十二月
+            .data
+              .top
+                p 十二月十八届三中全会所描绘的蓝图将如何谋划布局，万众瞩目。关于两会，网友们最想知道什么？哪些两会话题最受网友关注？
+              .bottom
+                a(href="#")
+                  img(src="http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg")
+      .right.fl
+  .blue
+    .w1000
+      plug(_name="tagCloud" _src="https://owo.ink/public/0db495367f5dbb795815438280175ad7.page")
+  .w1000
+    plug(_name="a5Jkh9zomp95ftbW" _src="https://owo.ink/public/f6f3e7e8691c2cf683f992fe7f24f22a.page")
+  plug(_name="copyright" _src="https://owo.ink/public/8a8f128da484c4ccaf6c2e598ffdd8b6.page")
+</template>
+
+<script>
+  module.exports = {
+    created: function () {
+
+    }
+  }
+</script>
+
+
+<style lang="less">
+.main-img {
+  width: 100%;
+}
+.label-box {
+  .item {
+    float: left;
+    width: 110px;
+    height: 60px;
+    text-align: center;
+    background-color: #e5edf5;
+    margin: 5px;
+    line-height: 60px;
+    color: #0374b3;
+    font-size: 28px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    .data {
+      display: none;
+    }
+  }
+  .active {
+    background-color: #3c89d2;
+    color: white;
+  }
+}
+.content-1 {
+  .left {
+    width: 360px;
+    padding: 40px;
+    background-color: #f8f8f9;
+    h2 {
+      font-size: 40px;
+      line-height: 100px;
+      color: #0374b3;
+      font-weight: bold;
+    }
+  }
+  .right {
+    width: 500px;
+    margin-left: 40px;
+    overflow: hidden;
+    margin-right: 20px;
+    .top {
+      height: 310px;
+      background-image: url("@|title.png|");
+      background-repeat: no-repeat;
+      position: relative;
+      p {
+        color: #202021;
+        font-size: 30px;
+        line-height: 48px;
+        position: absolute;
+        width: 390px;
+        right: 0;
+      }
+    }
+    .bottom {
+      height: 190px;
+      overflow: hidden;
+      border-radius: 5px;
+      a, img {
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+    }
+  }
+}
+.blue {
+  margin-top: 40px;
+  background-color: #d6e5f6;
+}
+.owo-a5Jkh9zomp95ftbW {
+  margin: 40px 0;
+}
+#copyright {
+  height: 60px;
+  padding: 40px 0;
+}
+</style>

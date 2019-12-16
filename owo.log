@@ -1,0 +1,74 @@
+[2019-12-16T15:14:05.753] [INFO] default - --------------------------- 开始编译 ---------------------------
+[2019-12-16T15:14:05.755] [INFO] default - 程序运行目录: D:\work\人事年终系列报道
+[2019-12-16T15:14:05.755] [INFO] default - 首次启动!
+[2019-12-16T15:14:05.755] [INFO] default - 生成版本号: 0nin8afwaq6l
+[2019-12-16T15:14:05.760] [INFO] default - 清理资源文件夹: D:\work\人事年终系列报道\dist\static
+[2019-12-16T15:14:05.760] [INFO] default - 文件夹不存在: D:\work\人事年终系列报道\dist\static
+[2019-12-16T15:14:05.761] [INFO] default - 创建文件夹: D:\work\人事年终系列报道\dist\static
+[2019-12-16T15:14:05.761] [INFO] default - 读取模板文件: C:\Users\PG\Documents\GitHub\PG\lib\index.html
+[2019-12-16T15:14:05.761] [DEBUG] default - 读取网页标题: {TAG_14226_TAG}
+[2019-12-16T15:14:05.761] [DEBUG] default - 处理页面源信息: [{"http-equiv":"content-type","content":"text/html; charset=UTF-8"},{"name":"viewport","content":"width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"},{"name":"format-detection","content":"telephone=no, email=no"},{"name":"apple-mobile-web-app-capable","content":"yes"},{"name":"apple-mobile-web-app-status-bar-style","content":"white"},{"name":"renderer","content":"webkit"},{"http-equiv":"X-UA-Compatible","content":"IE=edge,chrome=1"},{"name":"filetype","content":"1"},{"name":"publishedtype","content":"1"},{"name":"pagetype","content":"2"},{"name":"screen-orientation","content":"landscape"},{"name":"x5-orientation","content":"landscape"},{"name":"full-screen","content":"yes"},{"name":"x5-fullscreen","content":"true"},{"name":"browsermode","content":"application"},{"name":"x5-page-mode","content":"app"}]
+[2019-12-16T15:14:05.762] [INFO] default - 开始处理模块: home
+[2019-12-16T15:14:06.204] [INFO] default - 开始处理模块: topBar
+[2019-12-16T15:14:06.205] [DEBUG] default - 使用文件缓存:D:\work\人事年终系列报道\owo_modules\7c776025c29680036680cb22a13e2868.owo
+[2019-12-16T15:14:06.210] [DEBUG] default - 缓存模板: topBarhttps://owo.ink/public/6b0b9997573040ed3cc6230f3891f322.page
+[2019-12-16T15:14:06.216] [DEBUG] default - 模块topBar处理用时: 12 毫秒!
+[2019-12-16T15:14:06.219] [INFO] default - 开始处理模块: tagCloud
+[2019-12-16T15:14:06.219] [DEBUG] default - 使用文件缓存:D:\work\人事年终系列报道\owo_modules\af5a0e3300f19a05be195f4663973d3a.owo
+[2019-12-16T15:14:06.239] [DEBUG] default - 缓存模板: tagCloudhttps://owo.ink/public/0db495367f5dbb795815438280175ad7.page
+[2019-12-16T15:14:06.285] [DEBUG] default - 模块tagCloud处理用时: 66 毫秒!
+[2019-12-16T15:14:06.285] [INFO] default - 开始处理模块: a5Jkh9zomp95ftbW
+[2019-12-16T15:14:06.285] [DEBUG] default - 使用文件缓存:D:\work\人事年终系列报道\owo_modules\adac7da517e800aaae6c0afedd423696.owo
+[2019-12-16T15:14:06.296] [DEBUG] default - 缓存模板: a5Jkh9zomp95ftbWhttps://owo.ink/public/f6f3e7e8691c2cf683f992fe7f24f22a.page
+[2019-12-16T15:14:06.304] [DEBUG] default - 模块a5Jkh9zomp95ftbW处理用时: 19 毫秒!
+[2019-12-16T15:14:06.304] [INFO] default - 开始处理模块: copyright
+[2019-12-16T15:14:06.304] [DEBUG] default - 使用文件缓存:D:\work\人事年终系列报道\owo_modules\f99ca1d187852cca108e4037254772ff.owo
+[2019-12-16T15:14:06.307] [DEBUG] default - 缓存模板: copyrighthttps://owo.ink/public/8a8f128da484c4ccaf6c2e598ffdd8b6.page
+[2019-12-16T15:14:06.308] [DEBUG] default - 模块copyright处理用时: 4 毫秒!
+[2019-12-16T15:14:06.310] [DEBUG] default - 缓存模板: home./src/page/home.owo
+[2019-12-16T15:14:06.316] [DEBUG] default - 页面home处理用时: 554 毫秒!
+[2019-12-16T15:14:06.317] [INFO] default - 文件夹不存在: D:/work/人事年终系列报道/dist/static/resource
+[2019-12-16T15:14:06.318] [INFO] default - 创建文件夹: D:/work/人事年终系列报道/dist/static/resource
+[2019-12-16T15:14:06.318] [DEBUG] default - 处理资源:  [ 'D:/work/人事年终系列报道/src/resource/title.png' ]
+[2019-12-16T15:14:06.319] [DEBUG] default - 资源目录:  D:/work/人事年终系列报道/dist/static/resource
+[2019-12-16T15:14:06.321] [DEBUG] default - css中的资源处理完毕!
+[2019-12-16T15:14:06.852] [DEBUG] default - 使用postcss处理样式，使用了1个插件!
+[2019-12-16T15:14:06.894] [INFO] default - 文件夹不存在: D:\work\人事年终系列报道\dist\static\css
+[2019-12-16T15:14:06.895] [INFO] default - 创建文件夹: D:\work\人事年终系列报道\dist\static\css
+[2019-12-16T15:14:06.895] [INFO] default - 开始处理附属css中的资源
+[2019-12-16T15:14:06.895] [INFO] default - 附属css中的资源处理完毕!
+[2019-12-16T15:14:06.895] [INFO] default - 处理字体: {}
+[2019-12-16T15:14:06.901] [INFO] default - 使用postcss处理完毕! 用时: 49 毫秒
+[2019-12-16T15:14:06.901] [INFO] default - 判断css中的外链情况!
+[2019-12-16T15:14:06.901] [DEBUG] default - 发现外链列表: "../resource/title.png"
+[2019-12-16T15:14:06.901] [INFO] default - 正在处理script!
+[2019-12-16T15:14:07.445] [INFO] default - 工程中只有一个页面!
+[2019-12-16T15:14:07.446] [INFO] default - js中的资源处理完毕!
+[2019-12-16T15:14:07.446] [DEBUG] default - 处理引用脚本: [{"name":"jquery1.11.0","src":"http://tools.people.com.cn/libs/jquery/1.11.1/jquery-1.11.1.min.js"},{"name":"tagcanvas.min","src":"./src/resource/tagcanvas.min.js"},{"name":"main","src":"./src/main.js","resource":true}]
+[2019-12-16T15:14:07.446] [DEBUG] default - 外部脚本数量: 3
+[2019-12-16T15:14:07.446] [DEBUG] default - 处理脚本: jquery1.11.0
+[2019-12-16T15:14:07.446] [DEBUG] default - 网络脚本: jquery1.11.0
+[2019-12-16T15:14:07.446] [DEBUG] default - 处理脚本: tagcanvas.min
+[2019-12-16T15:14:07.447] [INFO] default - 读取文件: D:\work\人事年终系列报道\src\resource\tagcanvas.min.js
+[2019-12-16T15:14:07.447] [DEBUG] default - 处理脚本: main
+[2019-12-16T15:14:07.447] [INFO] default - 读取文件: D:\work\人事年终系列报道\src\main.js
+[2019-12-16T15:14:07.447] [DEBUG] default - 输出scriptData
+[2019-12-16T15:14:07.448] [DEBUG] default - 准备输出html!
+[2019-12-16T15:14:07.449] [DEBUG] default - 处理资源:  [ 'D:/work/人事年终系列报道/src/resource/bg.jpg' ]
+[2019-12-16T15:14:07.449] [DEBUG] default - 资源目录:  D:/work/人事年终系列报道/dist/static/resource
+[2019-12-16T15:14:07.449] [DEBUG] default - 开始美化html
+[2019-12-16T15:14:07.474] [INFO] default - 判断html中的外链情况!
+[2019-12-16T15:14:07.474] [DEBUG] default - 发现外链列表: ./static/css/owo.main.0nin8afwaq6l.css,./static/css/main.css,http://tools.people.com.cn/libs/swiper/2.0/idangerous.swiper.css,http://www.people.com.cn/,#,#,#,#,#,#,#,#,#,#,#,#,/#,/#,/#,/#,/#,/#,/#,/#,/#,/#,/#,/#,/#,/#,/#,/#,/#,#,#,#,#,#,#,#,#,http://www.people.com.cn/img/2016people/images/rmw_logo.png,./static/resource/bg.jpg,http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg,http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg,http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg,http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg,http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg,http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg,http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg,http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg,http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg,http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg,http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg,http://www.people.com.cn/NMediaFile/2019/1216/MAIN201912160637513323315160682.jpg,http://tools.people.com.cn/libs/jquery/1.11.1/jquery-1.11.1.min.js,./static/js/tagcanvas.min.js,./static/js/main.js,./static/js/owo.main.0nin8afwaq6l.js
+[2019-12-16T15:14:07.475] [INFO] default - 显示外链情况!
+[2019-12-16T15:14:07.477] [INFO] default - 文件夹不存在: D:\work\人事年终系列报道\dist\static\js
+[2019-12-16T15:14:07.478] [INFO] default - 创建文件夹: D:\work\人事年终系列报道\dist\static\js
+[2019-12-16T15:14:07.478] [DEBUG] default - 页面中不包含切换动画!
+[2019-12-16T15:14:07.478] [INFO] default - 编译结束!
+[2019-12-16T15:14:07.497] [INFO] default - 写入文件: D:\work\人事年终系列报道\dist\static\css\owo.main.0nin8afwaq6l.css
+[2019-12-16T15:14:07.497] [INFO] default - 主要逻辑文件写出成功!
+[2019-12-16T15:14:07.498] [INFO] default - 读取成功: D:\work\人事年终系列报道\src\main.css
+[2019-12-16T15:14:07.498] [INFO] default - 读取成功: D:\work\人事年终系列报道\src\main.js
+[2019-12-16T15:14:07.538] [INFO] default - 写入文件: D:\work\人事年终系列报道\dist\static\css\main.css
+[2019-12-16T15:14:07.538] [INFO] default - 写入文件: D:\work\人事年终系列报道\dist\static\js\main.js
+[2019-12-16T15:14:07.538] [INFO] default - 读取成功: D:\work\人事年终系列报道\src\resource\tagcanvas.min.js
+[2019-12-16T15:14:07.539] [INFO] default - 写入文件: D:\work\人事年终系列报道\dist\static\js\tagcanvas.min.js
